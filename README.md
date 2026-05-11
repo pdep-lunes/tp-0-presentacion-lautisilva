@@ -5,3 +5,4 @@ Me gusta mucho el futbol y los deportes en general y soy hincha de boca. Tambien
 
 Mi legajo es 235-128.6
 ## Foto
+<img src="imagen.png" width="400">
